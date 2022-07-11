@@ -392,7 +392,7 @@ footer a{
 
     .kingdom-img{
         width: 80%;
-        height: 60%;    
+        height: 50%;    
     }
 
     #home-wrapper{
@@ -466,30 +466,41 @@ footer a{
     }
 
 
+    /* .........FAQ SECTION..........*/
 
-    #roadmap{
+    #faq{
         padding-top: 30px;
         padding-bottom: 20px;
     }
 
-    .roadmap-texts{
-        width: 80%;
+    .faq-texts{
+        width: 70%;
         margin: 40px auto;
         font-size: 18px;
-        font-style: italic;
-        border: 2px solid #491f61;
+        border: 2px solid #2c0027;
         text-align: center;
-        padding: 40px 10px;
         box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3), 0px -5px 10px rgba(0, 0, 0, 0.3);
     }
 
-    .roadmap-header{
+    .faq-header{
         text-transform: uppercase;
         text-align: center;
-        letter-spacing: 4px;
-        font-size: 40px;
+        letter-spacing: 3px;
+        font-size: 30px;
         font-weight: 800;
     }
+
+    .faq-paragraph{
+        padding: 10px 20px;
+        text-align: center;
+    }
+
+    .faq-bold{
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+
 
   
     #team{
